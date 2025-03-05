@@ -62,14 +62,19 @@ java ATM_System
 💡 Multiple Accounts – Support for multiple users and authentication
 
 
+
 🤝 Contributing
 
 Contributions are welcome!
 
 -Fork the repository
+
 -Create a new branch (git checkout -b feature/NewFeature)
+
 -Commit your changes (git commit -m "Added new feature")
+
 -Push to the branch (git push origin feature/NewFeature)
+
 -Create a Pull Request
 
 
